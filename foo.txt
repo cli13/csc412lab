@@ -1,1 +1,2 @@
 Initial foo commit
+second commit
